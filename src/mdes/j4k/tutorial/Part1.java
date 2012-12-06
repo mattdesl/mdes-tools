@@ -10,7 +10,7 @@ import java.awt.image.BufferedImage;
 import java.awt.image.DataBufferInt;
 import java.util.Random;
 
-public class T extends Applet implements Runnable {
+public class Part1 extends Applet implements Runnable {
 
 	//TODO: remove these if not needed
 	public static final Random RANDOM = new Random();
